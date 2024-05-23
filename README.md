@@ -1,14 +1,34 @@
-## Hi there 👋
-<div align="center;">
-  <div align ="left">
-    <h4> 🔭 I’m currently working on Data science </h4> 
-    <h4>🌱 I’m currently learning Analytics Tools </h4> 
-    <h4>🔭 I’m currently working on Data science </h4>
-    <h4>🌱 I’m currently learning Analytics Tools </h4>
-    <h4>💬 Ask me about  Dance💃💃</h4>
-    <h4>⚡ Fun fact: Drifting !!! </h4>
-  </div>
-  <div align="right;">
-    <img src="https://github.com/naimisha-ganivada/naimisha-ganivada/assets/170643972/0fca9da7-198c-48f4-b313-352bce0" alt = "image">
-  </div>
-</div>
+
+<h1 align="center">Hi there 👋</h1>
+
+<table align = "center">
+  <tr>
+    <td width = 50%>
+      <h4 align="left">🔭 I’m currently working on Data science</h4>
+      <h4 align="left">🌱 I’m currently learning Analytics Tools</h4>
+      <h4 align="left">🔭 I’m currently working on Data science</h4>
+      <h4 align="left">🌱 I’m currently learning Analytics Tools</h4>
+      <h4 align="left">💬 Ask me about Dance and singing💃💃</h4>
+      <h4 align="left">⚡ Fun fact: Drifting with the dance !!!</h4>
+    </td>
+      <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=naimisha-ganivada&theme=gruvbox&show_icons=true" alt="status">
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<table>
+  <tr>
+    <td>
+      <img src = "https://streak-stats.demolab.com/?user=naimisha-ganivada&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt = "images-profile">
+    </td>
+    <td>
+    <img src = "https://github.com/naimisha-ganivada/naimisha-ganivada/assets/170643972/32fa2449-d266-4a5d-afc7-52ca0161c644" alt = "profile" max-width = 100%> 
+    </td>
+    <td>
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naimisha-ganivada&layout=pie" alt = "piechart">
+    </td>
+  </tr>
+</table>
