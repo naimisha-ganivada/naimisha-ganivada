@@ -12,11 +12,22 @@
       <h4 align="left">⚡ Fun fact: Drifting with the dance !!!</h4>
     </td>
       <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=naimisha-ganivada&theme=gruvbox&show_icons=true" alt="status">
+      <img src="https://github-readme-stats.vercel.app/api?username=naimisha-ganivada&theme=gruvbox&show_icons=true" alt="status" align = "center">
     </td>
   </tr>
 </table>
 <br>
+<br>
+<br>
+<h1> Snake Eating Contributions </h1>
+<br>
+<table align = "center">
+   <tr>
+     <td>
+       <img src = "https://github.com/naimisha-ganivada/naimisha-ganivada/blob/output/github-snake-dark.svg" alt = "status_of_read_me">
+     </td>
+   </tr>
+</table>
 <br>
 <br>
 <table>
